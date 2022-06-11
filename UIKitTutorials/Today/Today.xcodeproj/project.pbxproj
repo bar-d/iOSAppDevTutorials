@@ -63,7 +63,7 @@
 				D77E3DE828548976006C8BAE /* Models */,
 				D77E3DD428548859006C8BAE /* AppDelegate.swift */,
 				D77E3DD628548859006C8BAE /* SceneDelegate.swift */,
-				D77E3DD828548859006C8BAE /* ReminderListViewController.swift */,
+				D77E3DED28549346006C8BAE /* ListViewController */,
 				D77E3DDA28548859006C8BAE /* Main.storyboard */,
 				D77E3DDD2854885A006C8BAE /* Assets.xcassets */,
 				D77E3DDF2854885A006C8BAE /* LaunchScreen.storyboard */,
@@ -79,6 +79,14 @@
 				D77E3DEB28549092006C8BAE /* Date+Today.swift */,
 			);
 			name = Models;
+			sourceTree = "<group>";
+		};
+		D77E3DED28549346006C8BAE /* ListViewController */ = {
+			isa = PBXGroup;
+			children = (
+				D77E3DD828548859006C8BAE /* ReminderListViewController.swift */,
+			);
+			name = ListViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
