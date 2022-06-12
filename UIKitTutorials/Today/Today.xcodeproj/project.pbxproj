@@ -19,6 +19,7 @@
 		D76BDE632855FBC2005B3845 /* UIContentConfiguration+Stateless.swift in Sources */ = {isa = PBXBuildFile; fileRef = D76BDE622855FBC2005B3845 /* UIContentConfiguration+Stateless.swift */; };
 		D76BDE652855FF1B005B3845 /* TextViewContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D76BDE642855FF1B005B3845 /* TextViewContentView.swift */; };
 		D76BDE672855FFC3005B3845 /* DatePickerContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D76BDE662855FFC3005B3845 /* DatePickerContentView.swift */; };
+		D76BDE6928562476005B3845 /* ReminderListStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D76BDE6828562476005B3845 /* ReminderListStyle.swift */; };
 		D77E3DD528548859006C8BAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D77E3DD428548859006C8BAE /* AppDelegate.swift */; };
 		D77E3DD728548859006C8BAE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D77E3DD628548859006C8BAE /* SceneDelegate.swift */; };
 		D77E3DD928548859006C8BAE /* ReminderListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D77E3DD828548859006C8BAE /* ReminderListViewController.swift */; };
@@ -43,6 +44,7 @@
 		D76BDE622855FBC2005B3845 /* UIContentConfiguration+Stateless.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIContentConfiguration+Stateless.swift"; sourceTree = "<group>"; };
 		D76BDE642855FF1B005B3845 /* TextViewContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewContentView.swift; sourceTree = "<group>"; };
 		D76BDE662855FFC3005B3845 /* DatePickerContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerContentView.swift; sourceTree = "<group>"; };
+		D76BDE6828562476005B3845 /* ReminderListStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderListStyle.swift; sourceTree = "<group>"; };
 		D77E3DD128548859006C8BAE /* Today.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Today.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D77E3DD428548859006C8BAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D77E3DD628548859006C8BAE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				D77E3DE928548989006C8BAE /* Reminder.swift */,
 				D77E3DEB28549092006C8BAE /* Date+Today.swift */,
 				D76BDE4C28549C58005B3845 /* UIColor+Today.swift */,
+				D76BDE6828562476005B3845 /* ReminderListStyle.swift */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				D76BDE4D28549C58005B3845 /* UIColor+Today.swift in Sources */,
 				D76BDE512854A598005B3845 /* ReminderListViewController+Actions.swift in Sources */,
 				D76BDE532854C6BF005B3845 /* ReminderViewController.swift in Sources */,
+				D76BDE6928562476005B3845 /* ReminderListStyle.swift in Sources */,
 				D76BDE632855FBC2005B3845 /* UIContentConfiguration+Stateless.swift in Sources */,
 				D77E3DD928548859006C8BAE /* ReminderListViewController.swift in Sources */,
 				D77E3DEC28549092006C8BAE /* Date+Today.swift in Sources */,
